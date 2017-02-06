@@ -1,0 +1,506 @@
+Movie_Name,Country,Rating,Gross,year
+Unbreakable,['USA'],7.2,$95.00M,2000
+Gladiator,"['USA', 'UK']",8.5,$187.67M,2000
+Requiem for a Dream,['USA'],8.4,$3.61M,2000
+Snatch,"['UK', 'USA']",8.3,$30.09M,2000
+Cast Away,['USA'],7.7,$233.63M,2000
+Memento,['USA'],8.5,$25.53M,2000
+American Psycho,['USA'],7.6,$15.05M,2000
+The Beach,"['USA', 'UK']",6.6,$39.78M,2000
+X-Men,['USA'],7.4,$157.30M,2000
+Remember the Titans,['USA'],7.8,$115.65M,2000
+The Cell,"['USA', 'Germany']",6.3,$61.28M,2000
+"O Brother, Where Art Thou?","['UK', 'France', 'USA']",7.8,$45.51M,2000
+The Patriot,"['USA', 'Germany']",7.1,$113.33M,2000
+Almost Famous,['USA'],7.9,$32.52M,2000
+Scary Movie,['USA'],6.2,$157.00M,2000
+Erin Brockovich,['USA'],7.3,$125.55M,2000
+Coyote Ugly,['USA'],5.6,$60.79M,2000
+How the Grinch Stole Christmas,"['USA', 'Germany']",6.0,$260.03M,2000
+Pitch Black,['USA'],7.1,$39.24M,2000
+The Emperor's New Groove,['USA'],7.3,$89.30M,2000
+Gone in Sixty Seconds,['USA'],6.5,$101.64M,2000
+Final Destination,"['Canada', 'USA']",6.7,$53.30M,2000
+Traffic,"['USA', 'Germany']",7.6,$124.11M,2000
+Road Trip,['USA'],6.5,$68.53M,2000
+Bring It On,['USA'],5.9,$68.35M,2000
+You Can Count on Me,['USA'],7.7,$9.18M,2000
+Little Nicky,['USA'],5.3,$39.44M,2000
+"Crouching Tiger, Hidden Dragon","['Taiwan', 'Hong Kong', 'USA', 'China']",7.9,$128.07M,2000
+Miss Congeniality,['USA'],6.2,$106.81M,2000
+Charlie's Angels,"['USA', 'Germany']",5.5,$125.31M,2000
+Scream 3,['USA'],5.5,$89.14M,2000
+Battlefield Earth,['USA'],2.4,$21.47M,2000
+What Women Want,['USA'],6.4,$182.81M,2000
+Hollow Man,"['USA', 'Germany']",5.7,$73.21M,2000
+Love & Basketball,['USA'],7.2,$27.44M,2000
+Quills,"['UK', 'Germany', 'USA']",7.4,$7.06M,2000
+Frequency,['USA'],7.4,$44.98M,2000
+Mission: Impossible II,"['USA', 'Germany']",6.1,$215.40M,2000
+Chocolat,"['UK', 'USA']",7.3,$71.31M,2000
+The Family Man,['USA'],6.7,$75.76M,2000
+Billy Elliot,"['UK', 'France']",7.7,$21.99M,2000
+Boiler Room,['USA'],7.0,$16.94M,2000
+"Me, Myself & Irene",['USA'],6.5,$90.57M,2000
+The Flintstones in Viva Rock Vegas,['USA'],3.6,$35.23M,2000
+Amores Perros,['Mexico'],8.1,$5.38M,2000
+Battle Royale,['Japan'],7.7,,2000
+Next Friday,['USA'],6.1,$57.18M,2000
+The Road to El Dorado,['USA'],6.9,$50.80M,2000
+In the Mood for Love,"['Hong Kong', 'China']",8.1,$2.73M,2000
+High Fidelity,"['UK', 'USA']",7.5,$27.28M,2000
+What Lies Beneath,['USA'],6.6,$155.37M,2000
+U-571,"['France', 'USA']",6.6,$77.09M,2000
+The Gift,['USA'],6.7,$11.99M,2000
+Center Stage,['USA'],6.7,$17.17M,2000
+Where the Heart Is,['USA'],6.8,$33.77M,2000
+Tra(sgre)dire,['Italy'],5.6,,2000
+Meet the Parents,['USA'],7.0,$166.23M,2000
+Bedazzled,"['USA', 'Germany']",6.0,$37.88M,2000
+Pay It Forward,['USA'],7.2,$33.51M,2000
+Thirteen Days,['USA'],7.3,$34.57M,2000
+Vertical Limit,"['USA', 'Germany']",5.9,$68.47M,2000
+Men of Honor,['USA'],7.2,$48.81M,2000
+The Perfect Storm,['USA'],6.4,$182.62M,2000
+Dancer in the Dark,"['Denmark', 'Spain', 'Germany', 'Netherlands', 'Italy', 'USA', 'UK', 'France', 'Sweden', 'Finland', 'Iceland', 'Norway']",8.0,$4.16M,2000
+Chicken Run,"['UK', 'USA', 'France']",7.0,$106.79M,2000
+Dinosaur,['USA'],6.5,$137.75M,2000
+Sexy Beast,"['UK', 'Spain']",7.3,$6.94M,2000
+Malèna,"['Italy', 'USA']",7.5,$3.43M,2000
+The Replacements,['USA'],6.5,$44.74M,2000
+Shaft,"['Germany', 'USA']",5.9,$70.33M,2000
+The Whole Nine Yards,['USA'],6.7,$57.26M,2000
+"Dude, Where's My Car?",['USA'],5.5,$46.73M,2000
+The Legend of Bagger Vance,['USA'],6.7,$30.70M,2000
+Space Cowboys,['USA'],6.4,$90.45M,2000
+28 Days,['USA'],6.0,$37.04M,2000
+Get Carter,['USA'],5.1,$14.97M,2000
+Best in Show,['USA'],7.5,$18.62M,2000
+Titan A.E.,['USA'],6.6,$22.75M,2000
+Dracula 2000,['USA'],4.9,$33.00M,2000
+Shanghai Noon,"['USA', 'Hong Kong']",6.6,$56.93M,2000
+Rules of Engagement,"['UK', 'Germany', 'Canada', 'USA']",6.4,$61.32M,2000
+Loser,['USA'],5.3,$15.46M,2000
+The Watcher,['USA'],5.3,$28.93M,2000
+Book of Shadows: Blair Witch 2,['USA'],4.0,$26.42M,2000
+Return to Me,['USA'],6.9,$32.66M,2000
+Mission to Mars,['USA'],5.6,$60.87M,2000
+Snow Day,['USA'],5.0,$60.01M,2000
+Rape Me,['France'],4.5,$0.01M,2000
+The 6th Day,['USA'],5.9,$34.54M,2000
+102 Dalmatians,"['USA', 'UK']",4.8,$66.94M,2000
+The Skulls,"['USA', 'Canada']",5.6,$35.01M,2000
+Romeo Must Die,['USA'],6.1,$55.97M,2000
+Chopper,['Australia'],7.2,$0.23M,2000
+Proof of Life,['USA'],6.2,$32.60M,2000
+Whatever It Takes,['USA'],5.5,$8.74M,2000
+Ginger Snaps,"['Canada', 'USA']",6.8,,2000
+Finding Forrester,['USA'],7.3,$51.77M,2000
+The Little Vampire,"['Germany', 'Netherlands', 'USA']",5.7,$13.56M,2000
+Reindeer Games,['USA'],5.7,$23.36M,2000
+100 Girls,['USA'],5.9,,2000
+Harry Potter and the Sorcerer's Stone,"['UK', 'USA']",7.5,$317.56M,2001
+The Lord of the Rings: The Fellowship of the Ring,"['New Zealand', 'USA']",8.8,$313.84M,2001
+Donnie Darko,['USA'],8.1,$0.73M,2001
+Pearl Harbor,['USA'],6.1,$198.54M,2001
+Spirited Away,['Japan'],8.6,$10.05M,2001
+A Beautiful Mind,['USA'],8.2,$170.71M,2001
+Mulholland Dr.,"['France', 'USA']",8.0,$7.22M,2001
+Black Hawk Down,"['USA', 'UK']",7.7,$108.64M,2001
+Training Day,"['USA', 'Australia']",7.7,$76.26M,2001
+Moulin Rouge!,"['Australia', 'USA']",7.6,$57.39M,2001
+Ocean's Eleven,['USA'],7.8,$183.41M,2001
+Amélie,"['France', 'Germany']",8.4,$33.20M,2001
+Not Another Teen Movie,['USA'],5.7,$37.88M,2001
+The Fast and the Furious,"['USA', 'Germany']",6.7,$144.51M,2001
+Planet of the Apes,['USA'],5.7,$180.01M,2001
+Hannibal,"['USA', 'UK']",6.8,$165.09M,2001
+A.I. Artificial Intelligence,['USA'],7.1,$78.62M,2001
+Save the Last Dance,['USA'],6.2,$91.04M,2001
+Shrek,['USA'],7.9,$267.65M,2001
+Bridget Jones's Diary,"['UK', 'France', 'USA', 'Ireland']",6.7,$71.50M,2001
+"Monsters, Inc.",['USA'],8.1,$289.91M,2001
+Enemy at the Gates,"['USA', 'France', 'Germany', 'UK', 'Ireland']",7.6,$51.40M,2001
+Y Tu Mamá También,['Mexico'],7.7,$13.62M,2001
+Legally Blonde,['USA'],6.2,$95.00M,2001
+Zoolander,"['Germany', 'USA']",6.6,$45.16M,2001
+Blow,['USA'],7.6,$52.94M,2001
+A Knight's Tale,['USA'],6.9,$56.08M,2001
+The Others,"['Spain', 'USA']",7.6,$96.47M,2001
+Vanilla Sky,"['USA', 'Spain']",6.9,$100.61M,2001
+The Princess Diaries,['USA'],6.2,$108.24M,2001
+Spy Game,"['Germany', 'USA', 'Japan', 'France']",7.1,$0.03M,2001
+Ghost World,"['USA', 'UK', 'Germany']",7.4,$6.20M,2001
+The Royal Tenenbaums,['USA'],7.6,$52.35M,2001
+Atlantis: The Lost Empire,['USA'],6.8,$84.04M,2001
+Jurassic Park III,['USA'],5.9,$181.17M,2001
+Sex and Lucia,"['Spain', 'France']",7.2,$1.49M,2001
+Jay and Silent Bob Strike Back,['USA'],6.9,$30.06M,2001
+Shallow Hal,"['USA', 'Germany']",5.9,$70.84M,2001
+Wet Hot American Summer,['USA'],6.7,$0.29M,2001
+Intimacy,"['France', 'UK', 'Germany', 'Spain']",6.2,$0.10M,2001
+Lara Croft: Tomb Raider,"['USA', 'UK', 'Japan', 'Germany']",5.7,$131.14M,2001
+The Mummy Returns,['USA'],6.3,$202.01M,2001
+American Pie 2,['USA'],6.4,$145.10M,2001
+Joe Dirt,['USA'],5.9,$27.09M,2001
+Monster's Ball,['USA'],7.1,$31.25M,2001
+Jeepers Creepers,"['Germany', 'USA']",6.1,$37.47M,2001
+Frailty,"['USA', 'Germany']",7.3,$13.10M,2001
+Scary Movie 2,"['USA', 'Canada']",5.3,$71.28M,2001
+Thir13en Ghosts,"['USA', 'Canada']",5.5,$41.87M,2001
+Spy Kids,['USA'],5.4,$112.69M,2001
+Original Sin,"['France', 'USA']",6.0,$16.25M,2001
+Serendipity,['USA'],6.9,$49.97M,2001
+The Piano Teacher,"['Austria', 'France', 'Germany']",7.4,$1.90M,2001
+I Am Sam,['USA'],7.6,$40.27M,2001
+Super Troopers,['USA'],7.1,$18.49M,2001
+From Hell,['USA'],6.8,$31.60M,2001
+The Wedding Planner,"['Germany', 'USA']",5.2,$60.40M,2001
+The Glass House,['USA'],5.8,$17.95M,2001
+Hard Ball,"['USA', 'Germany']",6.3,$40.22M,2001
+The Score,"['USA', 'Germany']",6.8,$71.07M,2001
+Rush Hour 2,"['USA', 'Hong Kong']",6.6,$226.14M,2001
+Bully,"['USA', 'France', 'UK']",7.0,$0.51M,2001
+Along Came a Spider,"['USA', 'Germany', 'Canada']",6.3,$74.06M,2001
+Rat Race,['USA'],6.4,$56.61M,2001
+Ali,['USA'],6.8,$58.18M,2001
+K-PAX,"['USA', 'Germany']",7.4,$50.17M,2001
+Evolution,['USA'],6.0,$0.01M,2001
+Hedwig and the Angry Inch,['USA'],7.8,$3.03M,2001
+Riding in Cars with Boys,['USA'],6.5,$29.78M,2001
+Waking Life,['USA'],7.8,$2.89M,2001
+Rock Star,['USA'],6.2,$16.99M,2001
+The Man Who Wasn't There,"['USA', 'UK']",7.6,$7.49M,2001
+The Believer,['USA'],7.2,$0.41M,2001
+Don't Say a Word,"['USA', 'Australia', 'Switzerland', 'Canada']",6.3,$55.00M,2001
+Bubble Boy,['USA'],5.6,$5.00M,2001
+Gosford Park,"['UK', 'USA', 'Italy']",7.3,$41.30M,2001
+Ghosts of Mars,['USA'],4.9,$8.43M,2001
+Lagaan: Once Upon a Time in India,['India'],8.2,,2001
+Swordfish,['USA'],6.5,$69.77M,2001
+Summer Catch,['USA'],4.9,$19.69M,2001
+How High,['USA'],6.3,$31.16M,2001
+Kate & Leopold,['USA'],6.4,$47.10M,2001
+Behind Enemy Lines,['USA'],6.4,$59.07M,2001
+Jason X,"['USA', 'Canada']",4.4,$12.61M,2001
+The Mexican,['USA'],6.1,$66.81M,2001
+Josie and the Pussycats,"['Canada', 'USA']",5.3,$14.25M,2001
+The Devil's Backbone,"['Spain', 'Mexico', 'France', 'Argentina']",7.5,$0.75M,2001
+Heartbreakers,['USA'],6.2,$40.33M,2001
+Kabhi Khushi Kabhie Gham...,['India'],7.5,,2001
+In the Bedroom,['USA'],7.5,$35.92M,2001
+Sweet November,['USA'],6.7,$25.18M,2001
+Out Cold,['USA'],6.3,$13.90M,2001
+Osmosis Jones,['USA'],6.2,$13.60M,2001
+Shaolin Soccer,"['Hong Kong', 'China']",7.3,$0.49M,2001
+Baby Boy,['USA'],6.4,$28.73M,2001
+Joy Ride,['USA'],6.6,$21.97M,2001
+Freddy Got Fingered,['USA'],4.5,$14.25M,2001
+Get Over It,['USA'],5.8,$11.56M,2001
+Kiss of the Dragon,['France'],6.6,$36.83M,2001
+Black Knight,['USA'],4.8,$33.42M,2001
+xXx,['USA'],5.8,$141.20M,2002
+Resident Evil,"['UK', 'Germany', 'France', 'USA']",6.7,$39.53M,2002
+The Ring,"['USA', 'Japan']",7.1,$128.58M,2002
+Gangs of New York,"['USA', 'Italy']",7.5,$77.68M,2002
+A Walk to Remember,['USA'],7.4,$41.23M,2002
+Spider-Man,['USA'],7.3,$403.71M,2002
+Signs,['USA'],6.7,$227.97M,2002
+Harry Potter and the Chamber of Secrets,"['UK', 'USA', 'Germany']",7.4,$261.97M,2002
+City of God,"['Brazil', 'France']",8.7,$7.56M,2002
+Catch Me If You Can,"['USA', 'Canada']",8.0,$164.44M,2002
+Star Wars: Episode II - Attack of the Clones,['USA'],6.7,$310.68M,2002
+The Pianist,"['France', 'Poland', 'Germany', 'UK']",8.5,$32.52M,2002
+The Lord of the Rings: The Two Towers,"['USA', 'New Zealand']",8.7,$340.48M,2002
+28 Days Later...,['UK'],7.6,$45.06M,2002
+Die Another Day,"['UK', 'USA']",6.1,$160.20M,2002
+Irreversible,['France'],7.4,$0.75M,2002
+Chicago,"['USA', 'Germany', 'Canada']",7.2,$170.68M,2002
+Minority Report,['USA'],7.7,$132.01M,2002
+Road to Perdition,['USA'],7.7,$104.05M,2002
+The Bourne Identity,"['USA', 'Germany', 'Czech Republic']",7.9,$121.47M,2002
+Scooby-Doo,"['USA', 'Australia']",4.9,$153.29M,2002
+8 Mile,"['USA', 'Germany']",7.0,$116.72M,2002
+Red Dragon,"['Germany', 'USA']",7.2,$92.93M,2002
+Unfaithful,"['USA', 'Germany', 'France']",6.7,$52.75M,2002
+The Count of Monte Cristo,"['UK', 'USA', 'Ireland']",7.7,$54.23M,2002
+Secretary,['USA'],7.1,$4.05M,2002
+Insomnia,"['USA', 'Canada']",7.2,$67.26M,2002
+We Were Soldiers,"['USA', 'Germany']",7.1,$78.12M,2002
+Sweet Home Alabama,['USA'],6.2,$127.21M,2002
+Van Wilder,"['Germany', 'USA']",6.4,$21.01M,2002
+Blade II,"['USA', 'Germany']",6.7,$81.65M,2002
+Lilo & Stitch,['USA'],7.2,$145.77M,2002
+About a Boy,"['UK', 'USA', 'France', 'Germany']",7.1,$40.57M,2002
+Equilibrium,['USA'],7.5,$1.19M,2002
+Panic Room,['USA'],6.8,$95.31M,2002
+Reign of Fire,"['USA', 'UK', 'Ireland']",6.2,$43.06M,2002
+Cabin Fever,['USA'],5.6,$21.16M,2002
+Frida,"['USA', 'Canada', 'Mexico']",7.4,$25.78M,2002
+The Hours,"['USA', 'UK']",7.6,$41.60M,2002
+Ying xiong,"['China', 'Hong Kong']",7.9,$0.08M,2002
+My Big Fat Greek Wedding,"['Canada', 'USA']",6.6,$241.44M,2002
+Adaptation.,['USA'],7.7,$22.25M,2002
+Star Trek: Nemesis,['USA'],6.4,$43.12M,2002
+Ice Age,['USA'],7.6,$176.39M,2002
+Ken Park,"['USA', 'Netherlands', 'France']",5.9,,2002
+The Time Machine,['USA'],5.9,$56.68M,2002
+Bend It Like Beckham,"['UK', 'Germany', 'USA']",6.7,$32.54M,2002
+Treasure Planet,['USA'],7.1,$38.12M,2002
+Blue Crush,"['USA', 'Germany']",5.6,$40.12M,2002
+The Sum of All Fears,"['USA', 'Germany']",6.4,$118.47M,2002
+Maid in Manhattan,['USA'],5.1,$93.82M,2002
+Austin Powers in Goldmember,['USA'],6.2,$213.08M,2002
+The Transporter,"['France', 'USA']",6.8,$25.30M,2002
+Men in Black II,['USA'],6.1,$190.42M,2002
+The Hot Chick,['USA'],5.5,$35.02M,2002
+The Scorpion King,"['USA', 'Germany', 'Belgium']",5.5,$90.34M,2002
+Punch-Drunk Love,['USA'],7.3,$17.79M,2002
+Murder by Numbers,['USA'],6.1,$31.87M,2002
+Ghost Ship,"['USA', 'Australia']",5.5,$30.08M,2002
+The Sweetest Thing,['USA'],5.1,$24.43M,2002
+Infernal Affairs,['Hong Kong'],8.1,$0.09M,2002
+Spy Kids 2: Island of Lost Dreams,['USA'],5.1,$85.57M,2002
+Phone Booth,['USA'],7.1,$46.56M,2002
+25th Hour,['USA'],7.7,$13.06M,2002
+John Q,['USA'],7.0,$71.03M,2002
+Spirit: Stallion of the Cimarron,['USA'],7.1,$73.22M,2002
+Queen of the Damned,"['USA', 'Australia']",5.3,$30.31M,2002
+Two Weeks Notice,"['USA', 'Australia']",6.1,$93.31M,2002
+Blood Work,['USA'],6.4,$26.20M,2002
+Divine Secrets of the Ya-Ya Sisterhood,['USA'],6.0,$69.59M,2002
+Solaris,['USA'],6.2,$14.97M,2002
+Tuck Everlasting,['USA'],6.7,$19.16M,2002
+Mr. Deeds,['USA'],5.8,$126.20M,2002
+40 Days and 40 Nights,"['USA', 'UK', 'France']",5.6,$37.94M,2002
+Nicholas Nickleby,"['UK', 'USA']",7.2,$1.31M,2002
+The Rules of Attraction,"['USA', 'Germany']",6.7,$6.53M,2002
+Ali G Indahouse,"['France', 'UK', 'Germany', 'USA']",6.2,,2002
+Crossroads,['USA'],3.3,$37.19M,2002
+K-19: The Widowmaker,"['UK', 'Germany', 'USA', 'Canada']",6.7,$35.17M,2002
+Barbershop,['USA'],6.3,$75.07M,2002
+The Rookie,['USA'],7.0,$75.60M,2002
+Antwone Fisher,['USA'],7.3,$21.08M,2002
+Confessions of a Dangerous Mind,"['USA', 'Germany', 'Canada']",7.1,,2002
+The New Guy,['USA'],5.9,$28.97M,2002
+Windtalkers,['USA'],6.0,$40.91M,2002
+High Crimes,['USA'],6.3,$41.54M,2002
+Friday After Next,['USA'],5.8,$32.98M,2002
+Talk to Her,['Spain'],8.0,$9.28M,2002
+Swimfan,['USA'],5.0,$28.56M,2002
+About Schmidt,['USA'],7.2,$65.01M,2002
+Swept Away,"['UK', 'Italy']",3.6,$0.60M,2002
+One Hour Photo,['USA'],6.8,$31.60M,2002
+Changing Lanes,['USA'],6.5,$66.79M,2002
+Orange County,['USA'],6.2,$41.03M,2002
+The Good Girl,"['USA', 'Germany', 'Netherlands']",6.5,$14.02M,2002
+Paid in Full,['USA'],7.1,$3.04M,2002
+Rollerball,"['USA', 'Germany', 'Japan']",3.0,$18.99M,2002
+Like Mike,['USA'],5.1,$51.43M,2002
+Collateral Damage,['USA'],5.5,$40.05M,2002
+Femme Fatale,"['France', 'Switzerland']",6.3,$6.59M,2002
+The Lord of the Rings: The Return of the King,"['USA', 'New Zealand']",8.9,$377.02M,2003
+Love Actually,"['UK', 'USA', 'France']",7.7,$59.37M,2003
+Kill Bill: Vol. 1,['USA'],8.1,$70.10M,2003
+Pirates of the Caribbean: The Curse of the Black Pearl,['USA'],8.0,$305.39M,2003
+Old School,['USA'],7.2,$74.61M,2003
+Oldeuboi,['South Korea'],8.4,$2.18M,2003
+Finding Nemo,['USA'],8.1,$380.84M,2003
+Underworld,"['USA', 'UK', 'Germany', 'Hungary']",7.0,$51.48M,2003
+School of Rock,"['USA', 'Germany']",7.1,$81.26M,2003
+Monster,"['Germany', 'USA']",7.3,$34.47M,2003
+Mystic River,"['USA', 'Australia']",8.0,$90.14M,2003
+Big Fish,['USA'],8.0,$66.26M,2003
+Paycheck,"['USA', 'Canada']",6.3,$53.79M,2003
+Identity,['USA'],7.3,$51.48M,2003
+The Dreamers,"['UK', 'France', 'Italy']",7.2,$2.53M,2003
+Thirteen,['USA'],6.8,$4.60M,2003
+How to Lose a Guy in 10 Days,"['USA', 'Germany']",6.4,$105.81M,2003
+Lost in Translation,"['USA', 'Japan']",7.8,$44.57M,2003
+The Last Samurai,"['USA', 'New Zealand', 'Japan']",7.7,$111.11M,2003
+X2,"['Canada', 'USA']",7.5,$214.95M,2003
+The Room,['USA'],3.5,,2003
+Daredevil,['USA'],5.3,$0.43M,2003
+The Italian Job,"['USA', 'France', 'UK']",7.0,$106.13M,2003
+The Matrix Reloaded,"['USA', 'Australia']",7.2,$281.49M,2003
+Cold Mountain,"['UK', 'Italy', 'Romania', 'USA']",7.2,$95.63M,2003
+Terminator 3: Rise of the Machines,"['USA', 'Germany', 'UK']",6.4,$150.35M,2003
+Under the Tuscan Sun,"['USA', 'Italy']",6.7,$43.60M,2003
+Peter Pan,"['UK', 'Australia', 'USA']",6.9,$48.42M,2003
+Hulk,['USA'],5.7,$132.12M,2003
+The Matrix Revolutions,"['Australia', 'USA']",6.7,$139.26M,2003
+Open Range,['USA'],7.5,$58.33M,2003
+Mona Lisa Smile,['USA'],6.4,$63.70M,2003
+The League of Extraordinary Gentlemen,"['USA', 'Germany', 'Czech Republic', 'UK']",5.8,$66.46M,2003
+2 Fast 2 Furious,"['USA', 'Germany']",5.9,$127.08M,2003
+Wrong Turn,"['USA', 'Germany']",6.1,$15.42M,2003
+Holes,['USA'],7.1,$67.33M,2003
+Dreamcatcher,['USA'],5.5,$33.69M,2003
+The Texas Chainsaw Massacre,['USA'],6.2,$80.15M,2003
+Once Upon a Time in Mexico,['USA'],6.4,$55.85M,2003
+The Cat in the Hat,['USA'],3.8,$100.45M,2003
+Dogville,"['Netherlands', 'Denmark', 'UK', 'France', 'Finland', 'Sweden', 'Germany', 'Italy', 'Norway']",8.1,$1.53M,2003
+Elf,"['USA', 'Germany']",6.9,$173.38M,2003
+House of 1000 Corpses,['USA'],6.0,$12.58M,2003
+Master and Commander: The Far Side of the World,['USA'],7.4,$93.93M,2003
+Daddy Day Care,['USA'],5.5,$104.15M,2003
+Bad Boys II,['USA'],6.6,$138.40M,2003
+21 Grams,['USA'],7.7,$16.25M,2003
+Charlie's Angels: Full Throttle,['USA'],4.8,$100.69M,2003
+Something's Gotta Give,['USA'],6.7,$124.59M,2003
+Final Destination 2,"['USA', 'Canada']",6.2,$46.46M,2003
+Cheaper by the Dozen,['USA'],5.8,$138.61M,2003
+Freddy vs. Jason,"['USA', 'Canada', 'Italy']",5.8,$82.16M,2003
+Bruce Almighty,['USA'],6.7,$242.59M,2003
+Anger Management,['USA'],6.2,$133.76M,2003
+S.W.A.T.,['USA'],6.0,$116.64M,2003
+Tears of the Sun,['USA'],6.6,$43.43M,2003
+The Brown Bunny,"['USA', 'Japan']",5.0,$0.37M,2003
+Freaky Friday,['USA'],6.1,$110.22M,2003
+Matchstick Men,['USA'],7.3,$36.87M,2003
+Memories of Murder,['South Korea'],8.1,$0.01M,2003
+American Wedding,"['USA', 'Germany']",6.3,$104.35M,2003
+View from the Top,['USA'],5.2,$15.59M,2003
+Scary Movie 3,"['USA', 'Canada']",5.5,$110.00M,2003
+Secondhand Lions,['USA'],7.6,$41.41M,2003
+Spy Kids 3-D: Game Over,['USA'],4.2,$111.76M,2003
+The Station Agent,['USA'],7.7,$5.74M,2003
+Girl with a Pearl Earring,"['UK', 'Luxembourg']",7.0,$11.63M,2003
+Open Water,['USA'],5.7,$30.50M,2003
+Jeepers Creepers II,['USA'],5.6,$35.14M,2003
+Looney Tunes: Back in Action,"['Germany', 'USA']",5.7,$20.95M,2003
+Swimming Pool,"['France', 'UK']",6.8,$10.11M,2003
+High Tension,"['France', 'Italy', 'Romania']",6.8,$3.65M,2003
+Darkness Falls,"['USA', 'Australia']",4.9,$32.13M,2003
+The Recruit,['USA'],6.6,$52.78M,2003
+The Life of David Gale,"['USA', 'Germany', 'UK']",7.6,$19.59M,2003
+Bad Santa,"['USA', 'Germany']",7.1,$60.06M,2003
+Just Married,"['USA', 'Germany']",5.4,$56.13M,2003
+A Man Apart,"['USA', 'Germany']",6.1,$26.18M,2003
+Brother Bear,['USA'],6.8,$85.33M,2003
+Sinbad: Legend of the Seven Seas,['USA'],6.7,$26.29M,2003
+Elephant,['USA'],7.2,$1.23M,2003
+The Missing,['USA'],6.5,$26.90M,2003
+The Rundown,['USA'],6.7,$47.59M,2003
+The Lizzie McGuire Movie,['USA'],5.4,$42.67M,2003
+Lara Croft Tomb Raider: The Cradle of Life,"['USA', 'Germany', 'Japan', 'UK']",5.5,$65.65M,2003
+Kangaroo Jack,"['USA', 'Australia']",4.4,$66.73M,2003
+Ong-Bak: The Thai Warrior,['Thailand'],7.2,$4.56M,2003
+Timeline,['USA'],5.6,$19.48M,2003
+Gigli,['USA'],2.4,$5.66M,2003
+Honey,['USA'],5.3,$30.22M,2003
+Intolerable Cruelty,['USA'],6.3,$35.10M,2003
+The Core,"['USA', 'Germany', 'Canada', 'UK']",5.4,$31.11M,2003
+Coffee and Cigarettes,"['USA', 'Japan', 'Italy']",7.1,$1.97M,2003
+Basic,"['Germany', 'USA']",6.5,$26.54M,2003
+A Tale of Two Sisters,['South Korea'],7.3,,2003
+Shanghai Knights,"['USA', 'Hong Kong']",6.2,$60.47M,2003
+Johnny English,"['UK', 'France', 'USA']",6.1,$27.97M,2003
+Camp,['USA'],6.3,$1.63M,2003
+What a Girl Wants,['USA'],5.8,$35.99M,2003
+Runaway Jury,['USA'],7.1,$49.44M,2003
+A Series of Unfortunate Events,"['USA', 'Germany']",6.8,$118.63M,2004
+The Incredibles,['USA'],8.0,$261.44M,2004
+Resident Evil: Apocalypse,"['Germany', 'France', 'UK', 'Canada', 'USA']",6.2,$50.74M,2004
+The Notebook,['USA'],7.9,$0.06M,2004
+The Village,['USA'],6.5,$114.20M,2004
+Troy,"['USA', 'Malta', 'UK']",7.2,$133.23M,2004
+The Day After Tomorrow,['USA'],6.4,$186.74M,2004
+Eternal Sunshine of the Spotless Mind,['USA'],8.3,$34.13M,2004
+Mean Girls,"['USA', 'Canada']",7.0,$86.05M,2004
+Harry Potter and the Prisoner of Azkaban,"['UK', 'USA']",7.8,$249.36M,2004
+Hellboy,['USA'],6.8,$59.04M,2004
+Napoleon Dynamite,['USA'],6.9,$44.54M,2004
+The Girl Next Door,['USA'],6.8,$14.59M,2004
+Kill Bill: Vol. 2,['USA'],8.0,$66.21M,2004
+The Machinist,['Spain'],7.7,$1.08M,2004
+Crash,"['Germany', 'USA']",7.8,$54.56M,2004
+The Phantom of the Opera,"['UK', 'USA']",7.3,$51.23M,2004
+King Arthur,"['USA', 'UK', 'Ireland']",6.3,$51.88M,2004
+Ocean's Twelve,['USA'],6.5,$125.53M,2004
+The Passion of the Christ,['USA'],7.1,$370.78M,2004
+White Chicks,['USA'],5.5,$69.15M,2004
+The Chronicles of Riddick,['USA'],6.7,$57.64M,2004
+Dodgeball: A True Underdog Story,"['USA', 'Germany']",6.7,$114.32M,2004
+Downfall,"['Germany', 'Austria', 'Italy']",8.3,$5.50M,2004
+The Aviator,"['Germany', 'USA']",7.5,$102.61M,2004
+Saw,['USA'],7.7,$55.15M,2004
+The Punisher,"['USA', 'Germany']",6.5,$33.68M,2004
+Spider-Man 2,['USA'],7.3,$373.38M,2004
+The Butterfly Effect,"['USA', 'Canada']",7.7,$0.02M,2004
+EuroTrip,"['USA', 'Czech Republic']",6.6,$17.72M,2004
+Million Dollar Baby,['USA'],8.1,$100.42M,2004
+Closer,"['USA', 'UK']",7.3,$33.99M,2004
+Van Helsing,"['USA', 'Czech Republic']",6.0,$120.03M,2004
+Man on Fire,"['USA', 'UK']",7.7,$77.86M,2004
+Howl's Moving Castle,['Japan'],8.2,$4.71M,2004
+Shaun of the Dead,"['UK', 'France']",8.0,$13.46M,2004
+50 First Dates,['USA'],6.8,$120.78M,2004
+Shrek 2,['USA'],7.2,$436.47M,2004
+"I, Robot","['USA', 'Germany']",7.1,$144.80M,2004
+AVP: Alien vs. Predator,"['USA', 'UK', 'Czech Republic', 'Canada', 'Germany']",5.6,$80.28M,2004
+Collateral,['USA'],7.6,$100.00M,2004
+Anchorman: The Legend of Ron Burgundy,['USA'],7.2,$84.14M,2004
+National Treasure,['USA'],6.9,$173.01M,2004
+Dawn of the Dead,"['USA', 'Canada', 'Japan', 'France']",7.4,$58.89M,2004
+Spanglish,['USA'],6.4,$42.04M,2004
+Layer Cake,['UK'],7.4,$2.34M,2004
+Alexander,"['Germany', 'USA', 'Netherlands', 'France', 'UK', 'Italy']",5.5,$34.29M,2004
+Blade: Trinity,['USA'],5.9,$52.40M,2004
+The Bourne Supremacy,"['USA', 'Germany']",7.8,$176.05M,2004
+9 Songs,['UK'],4.9,$0.05M,2004
+The Terminal,['USA'],7.3,$77.03M,2004
+Primer,['USA'],7.0,$0.42M,2004
+The Life Aquatic with Steve Zissou,['USA'],7.3,$24.01M,2004
+Finding Neverland,"['USA', 'UK']",7.7,$51.68M,2004
+Dead Man's Shoes,['UK'],7.7,$0.01M,2004
+Harold & Kumar Go to White Castle,"['USA', 'Canada', 'Germany']",7.1,$18.23M,2004
+Walking Tall,['USA'],6.2,$45.86M,2004
+The Grudge,"['USA', 'Japan']",5.9,$110.18M,2004
+A Cinderella Story,"['USA', 'Canada']",5.9,$51.43M,2004
+Sideways,"['USA', 'Hungary']",7.5,$71.50M,2004
+13 Going on 30,['USA'],6.1,$56.04M,2004
+Kung Fu Hustle,"['Hong Kong', 'China']",7.8,$17.10M,2004
+Around the World in 80 Days,"['USA', 'Germany', 'Ireland', 'UK']",5.8,$24.00M,2004
+The Princess Diaries 2: Royal Engagement,['USA'],5.7,$95.15M,2004
+The Manchurian Candidate,['USA'],6.6,$65.95M,2004
+Before Sunset,['USA'],8.0,$5.79M,2004
+Bridget Jones: The Edge of Reason,"['UK', 'France', 'Germany', 'Ireland', 'USA']",5.9,$40.20M,2004
+Friday Night Lights,"['Germany', 'USA']",7.3,$61.19M,2004
+Garden State,['USA'],7.6,$26.78M,2004
+Hotel Rwanda,"['UK', 'South Africa', 'Italy']",8.1,$23.47M,2004
+Ella Enchanted,"['USA', 'Ireland', 'UK']",6.3,$22.91M,2004
+Shark Tale,['USA'],6.0,$160.76M,2004
+The Polar Express,['USA'],6.6,$0.58M,2004
+Meet the Fockers,['USA'],6.3,$279.17M,2004
+Catwoman,['USA'],3.3,$40.20M,2004
+Ray,['USA'],7.7,$75.31M,2004
+Secret Window,['USA'],6.6,$47.78M,2004
+Dirty Dancing: Havana Nights,['USA'],6.0,$14.14M,2004
+Jersey Girl,['USA'],6.2,$25.27M,2004
+Beyond the Sea,"['UK', 'Germany', 'USA']",6.7,$6.14M,2004
+Scooby-Doo 2: Monsters Unleashed,"['USA', 'Canada']",4.9,$84.19M,2004
+Chasing Liberty,"['USA', 'UK']",6.1,$12.19M,2004
+Team America: World Police,"['USA', 'Germany']",7.2,$32.77M,2004
+Sleepover,['USA'],5.3,$8.07M,2004
+Miracle,"['Canada', 'USA']",7.5,$64.37M,2004
+Along Came Polly,['USA'],5.9,$87.86M,2004
+Wimbledon,"['UK', 'France', 'USA']",6.3,$16.83M,2004
+Starsky & Hutch,['USA'],6.1,$88.20M,2004
+Taking Lives,['USA'],6.2,$32.68M,2004
+The Ladykillers,['USA'],6.2,$39.69M,2004
+Taxi,"['USA', 'France']",4.4,$36.61M,2004
+The Prince and Me,"['USA', 'Czech Republic']",5.9,$28.17M,2004
+Wicker Park,['USA'],7.0,$12.83M,2004
+The Motorcycle Diaries,"['Argentina', 'USA', 'Chile', 'Peru', 'Brazil', 'UK', 'Germany', 'France']",7.8,$16.76M,2004
+Cellular,"['USA', 'Germany']",6.5,$32.00M,2004
+A Very Long Engagement,"['France', 'USA']",7.7,$6.17M,2004
+Mean Creek,['USA'],7.3,$0.60M,2004
+The SpongeBob SquarePants Movie,['USA'],7.0,$85.42M,2004
+House of Flying Daggers,"['China', 'Hong Kong']",7.6,$11.04M,2004
+First Daughter,['USA'],5.0,$9.06M,2004
+xXx: State of the Union,['USA'],4.3,$26.08M,2005
+V for Vendetta,"['USA', 'UK', 'Germany']",8.2,$70.50M,2005
+Harry Potter and the Goblet of Fire,"['UK', 'USA']",7.7,$289.99M,2005
+Batman Begins,"['USA', 'UK']",8.3,$205.34M,2005
+Star Wars: Episode III - Revenge of the Sith,['USA'],7.6,$380.26M,2005
